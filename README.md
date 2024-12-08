@@ -91,8 +91,8 @@
 Склонируйте проект на вашу локальную машину:
 
 ```bash
-git clone <URL_репозитория>
-cd <название_проекта>
+git clone https://github.com/dushesss/keepcode-test.git
+cd keepcode-test
 ```
 
 ---
