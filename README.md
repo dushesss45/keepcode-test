@@ -208,7 +208,7 @@ cd keepcode-test
    docker exec -it keepcode_app php artisan migrate
    ```
 
-2. (Опционально) Заполните базу данных тестовыми данными:
+2. Заполните базу данных тестовыми данными:
    ```bash
    docker exec -it keepcode_app php artisan db:seed
    ```
